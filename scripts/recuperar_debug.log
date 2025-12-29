@@ -1,0 +1,44 @@
+[2025-11-27 01:19:43] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 01:19:50] REQ_START ip=::1 method=POST POST={"etapa":"1","identificador":"michaelcosme2@gmail.com","data_nascimento":"1996-11-01","nome_mae":""}
+[2025-11-27 01:19:50] STEP1: searched dentistas with ident=michaelcosme2@gmail.com date=1996-11-01 => {"id":39,"email":"michaelcosme2@gmail.com","senha":"$2y$10$\/shZlk5LUTvksc4BdlR\/Ku8Sfk4B5lPPzlkVd0GppXeLDqZQOQX0C","cpf":"170.418.107","cro":"7562","data_nascimento":"1996-11-01","nome_mae":"Michael Cosme Reginaldo","cep":"20960-04","bairro":"Rocha","rua":"Rua Armando Marques","numero":"27","cidade":"Rio de Janeiro","estado":"RJ","criado_em":"2025-11-26 21:03:30","reset_token":null,"reset_expira":null,"telefone":"21997280118","codigo_2fa":null,"nome_clinica":"Dente feliz","cep_clinica":"20960-045","bairro_clinica":"Rocha","rua_clinica":"Rua Bergamo","numero_clinica":"320","nome_completo":"Michael Cosme Reginaldo","ultimo_login":"2025-11-26","especialidade":"Pediatria","twofa_pin":"$2y$10$ttLn.40m4x\/OG1LWrtdWre4jTpNmeC\/r0RJNgnmLV6dXzK9hKlhpy"}
+[2025-11-27 01:19:50] STEP1: found user id=39 tipo=medico -> session set
+[2025-11-27 01:19:57] REQ_START ip=::1 method=POST POST={"etapa":"2","nova_senha":"123456","confirma_senha":"123456"}
+[2025-11-27 01:19:57] STEP2: POST received nova_senha present?=1 session_recu_id=39 session_tipo=medico
+[2025-11-27 01:39:56] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 01:40:03] REQ_START ip=::1 method=POST POST={"etapa":"1","identificador":"michaelcosme2@gmail.com","data_nascimento":"1996-11-01","nome_mae":""}
+[2025-11-27 01:40:03] STEP1: searched dentistas with ident=michaelcosme2@gmail.com date=1996-11-01 => {"id":39,"email":"michaelcosme2@gmail.com","senha":"$2y$10$MKBIrXsiRXjWzOKQux\/wrOGhJLT4yP8M0caF\/4aw9pgu2csTDQjCC","cpf":"170.418.107","cro":"7562","data_nascimento":"1996-11-01","nome_mae":"Michael Cosme Reginaldo","cep":"20960-04","bairro":"Rocha","rua":"Rua Armando Marques","numero":"27","cidade":"Rio de Janeiro","estado":"RJ","criado_em":"2025-11-26 21:03:30","reset_token":null,"reset_expira":null,"telefone":"21997280118","codigo_2fa":null,"nome_clinica":"Dente feliz","cep_clinica":"20960-045","bairro_clinica":"Rocha","rua_clinica":"Rua Bergamo","numero_clinica":"320","nome_completo":"Michael Cosme Reginaldo","ultimo_login":"2025-11-26","especialidade":"Pediatria","twofa_pin":"$2y$10$ttLn.40m4x\/OG1LWrtdWre4jTpNmeC\/r0RJNgnmLV6dXzK9hKlhpy","twofa_pin_expire":null}
+[2025-11-27 01:40:03] STEP1: found user id=39 tipo=medico -> session set
+[2025-11-27 01:40:13] REQ_START ip=::1 method=POST POST={"etapa":"2","nova_senha":"1234567","confirma_senha":"1234567"}
+[2025-11-27 01:40:13] STEP2: POST received nova_senha present?=1 session_recu_id=39 session_tipo=medico
+[2025-11-27 01:40:16] REQ_START ip=::1 method=POST POST={"etapa":"2","nova_senha":"1234567","confirma_senha":"1234567"}
+[2025-11-27 01:40:16] STEP2: POST received nova_senha present?=1 session_recu_id=null session_tipo=null
+[2025-11-27 01:40:26] REQ_START ip=::1 method=POST POST={"etapa":"1","identificador":"michaelcosme2@gmail.com","data_nascimento":"1996-11-01","nome_mae":""}
+[2025-11-27 01:40:26] STEP1: searched dentistas with ident=michaelcosme2@gmail.com date=1996-11-01 => {"id":39,"email":"michaelcosme2@gmail.com","senha":"$2y$10$hy0qgQ965FGPrgoLXBst9eHGHqllPxY.KbAw\/4uNMSjnTbNuWuaWu","cpf":"170.418.107","cro":"7562","data_nascimento":"1996-11-01","nome_mae":"Michael Cosme Reginaldo","cep":"20960-04","bairro":"Rocha","rua":"Rua Armando Marques","numero":"27","cidade":"Rio de Janeiro","estado":"RJ","criado_em":"2025-11-26 21:03:30","reset_token":null,"reset_expira":null,"telefone":"21997280118","codigo_2fa":null,"nome_clinica":"Dente feliz","cep_clinica":"20960-045","bairro_clinica":"Rocha","rua_clinica":"Rua Bergamo","numero_clinica":"320","nome_completo":"Michael Cosme Reginaldo","ultimo_login":"2025-11-26","especialidade":"Pediatria","twofa_pin":"$2y$10$ttLn.40m4x\/OG1LWrtdWre4jTpNmeC\/r0RJNgnmLV6dXzK9hKlhpy","twofa_pin_expire":null}
+[2025-11-27 01:40:26] STEP1: found user id=39 tipo=medico -> session set
+[2025-11-27 01:40:38] REQ_START ip=::1 method=POST POST={"etapa":"2","nova_senha":"1234567","confirma_senha":"1234567"}
+[2025-11-27 01:40:38] STEP2: POST received nova_senha present?=1 session_recu_id=39 session_tipo=medico
+[2025-11-27 17:27:14] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 22:33:25] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 22:34:24] REQ_START ip=::1 method=POST POST={"etapa":"1","identificador":"alibebe@gmail.com","data_nascimento":"2006-07-20","nome_mae":""}
+[2025-11-27 22:34:24] STEP1: searched dentistas with ident=alibebe@gmail.com date=2006-07-20 => false
+[2025-11-27 22:34:24] STEP1: not found in dentistas, trying usuario
+[2025-11-27 22:35:53] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 22:36:25] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 22:37:51] REQ_START ip=::1 method=GET POST=[]
+[2025-11-27 22:38:00] REQ_START ip=::1 method=POST POST={"etapa":"1","email":"pessoa@gmail.com","pin":"123456"}
+[2025-11-27 22:38:00] STEP1: exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pin' in 'where clause'
+[2025-11-27 22:38:53] REQ_START ip=::1 method=POST POST={"etapa":"1","email":"pessoa@gmail.com","pin":"123456"}
+[2025-11-27 22:38:53] STEP1: searched dentistas email=pessoa@gmail.com => false
+[2025-11-27 22:38:53] STEP1: searched usuario email=pessoa@gmail.com => false
+[2025-11-27 22:38:53] STEP1: not found: email=pessoa@gmail.com pin=123456
+[2025-11-27 22:39:00] REQ_START ip=::1 method=POST POST={"etapa":"1","email":"pessoa@gmail.com","pin":"123456"}
+[2025-11-27 22:39:00] STEP1: searched dentistas email=pessoa@gmail.com => false
+[2025-11-27 22:39:00] STEP1: searched usuario email=pessoa@gmail.com => false
+[2025-11-27 22:39:00] STEP1: not found: email=pessoa@gmail.com pin=123456
+[2025-11-27 22:40:39] REQ_START ip=::1 method=POST POST={"etapa":"1","email":"pessoa@gmail.com","pin":"123456"}
+[2025-11-27 22:40:39] STEP1: searched dentistas email=pessoa@gmail.com => {"id":41,"email":"pessoa@gmail.com","senha":"$2y$10$nkz8QJ026ER.TfRfQBgoDOaozVSROuVdRwNAcr9jBxdRRaKzaq5y2","cpf":"228.455.537","cro":"RJ3200","data_nascimento":"2006-07-20","nome_mae":"Alguem","cep":"21044-69","bairro":"Mar\u00e9","rua":"Rua Principal","numero":"56b","cidade":"Rio de Janeiro","estado":"RJ","criado_em":"2025-11-27 11:18:28","reset_token":null,"reset_expira":null,"telefone":"(21) 97991-8853","codigo_2fa":null,"nome_clinica":"Pessoa Clinica","cep_clinica":"21044-310","bairro_clinica":"Mar\u00e9","rua_clinica":"Rua Raul Brunini","numero_clinica":"55","nome_completo":"Pessoa","ultimo_login":"2025-11-27","especialidade":"Cl\u00ednica Geral","twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2"}
+[2025-11-27 22:40:39] STEP1: found user id=41 tipo=medico
+[2025-11-27 22:40:46] REQ_START ip=::1 method=POST POST={"etapa":"2","nova_senha":"123456","confirma_senha":"123456"}
+[2025-11-27 22:40:46] STEP2: POST nova_senha present?=1 session_recu_id=41 session_tipo=medico
+[2025-11-27 22:40:47] STEP2: password updated for id=41 table=dentistas
+[2025-11-27 22:42:33] REQ_START ip=::1 method=GET POST=[]

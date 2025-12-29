@@ -1,0 +1,114 @@
+[2025-11-27 01:23:27] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:23:27] SELECT ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nome' in 'field list'
+[2025-11-27 01:23:27] NO ROW FOUND for id=39 table=dentistas
+[2025-11-27 01:23:35] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:23:35] SELECT ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nome' in 'field list'
+[2025-11-27 01:23:35] NO ROW FOUND for id=39 table=dentistas
+[2025-11-27 01:23:45] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:26:41] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:26:41] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$ttLn.40m4x\/OG1LWrtdWre4jTpNmeC\/r0RJNgnmLV6dXzK9hKlhpy","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:27:52] PRE_SESSION={"id":26,"tipo":"cliente","nome":"Alana Guimaraes de Andrade Nobre Gomes"}
+[2025-11-27 01:27:57] PRE_SESSION={"id":26,"tipo":"cliente","nome":"Alana Guimaraes de Andrade Nobre Gomes"}
+[2025-11-27 01:27:57] SELECT row for id=26 table=usuario => {"twofa_pin":"$2y$10$YxFQgGAycj1tQBp6i1etFeAmclJ176jXAQFbHOtd9pn1tFlVhL5Qm","nome_responsavel":"Alana Guimaraes de Andrade Nobre Gomes","nome_crianca":"Alana Gomes","data_nascimento":"1997-02-15","cpf":"170.418.107-04","telefone":"21970112092","email":"alana2@gmail.com","cep":"20960-04","rua":"Rua Bergamo","bairro":"Rocha","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 01:30:20] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:30:25] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:30:25] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$ttLn.40m4x\/OG1LWrtdWre4jTpNmeC\/r0RJNgnmLV6dXzK9hKlhpy","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:40:46] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:41:04] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:41:04] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$L2vS3bgGBF5HLBDMngc0\/egfbyzl27yJZChGy62saR8YtWRjSdg3K","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:41:11] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:41:11] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$L2vS3bgGBF5HLBDMngc0\/egfbyzl27yJZChGy62saR8YtWRjSdg3K","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:41:17] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:41:17] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$hzDZJ8rmUS5U.Mkfa1ELpu2xp4mDfOByGn2PfhK8WdkLsTnvMZd9K","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:42:15] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:42:15] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$hzDZJ8rmUS5U.Mkfa1ELpu2xp4mDfOByGn2PfhK8WdkLsTnvMZd9K","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:42:26] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:42:26] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$WHvYm4OEnkx\/aWAeCWpjwemqhs5mf.8wXYqVS.1bMxx4jn8vXH9nS","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:42:32] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:42:32] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$WHvYm4OEnkx\/aWAeCWpjwemqhs5mf.8wXYqVS.1bMxx4jn8vXH9nS","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:42:46] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:44:13] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:44:22] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:44:22] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$peHmE1fZ.1NL1hRS\/ZWOCugNoSdbKvt9fDH0iS.l\/95114GklqZrG","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:46:21] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:46:21] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$qadnOZ7WvKxTSm9WANEbcOixvu\/Tnx1YBsu1t3sMUqrB\/MCP.PHcO","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:46:37] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:46:44] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:46:44] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$1t2NV2vxsBZywaQH4XUTu.kyEgOMkSf5V6gabzoNl4n\/izu5x3Ql6","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:50:27] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:50:27] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$9be2mHgxkq0QwCDSB7duFOReY116ByKVFkRRumsUgL\/Icv7pxcalK","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:55:05] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:55:08] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:55:40] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:55:40] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$KHAZVH72XHITLIk2dJi6a.Mu6UQUc6G5lnEZ6XWtB3SKhpqTRgAcG","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:57:40] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:57:40] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$KHAZVH72XHITLIk2dJi6a.Mu6UQUc6G5lnEZ6XWtB3SKhpqTRgAcG","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:57:48] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:59:05] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:59:05] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$jEssm9FmRihw99Xs3XGGPONi8T7lujdcc6UNrOyQvwGjXvgyp8I3e","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:59:17] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:59:17] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$jEssm9FmRihw99Xs3XGGPONi8T7lujdcc6UNrOyQvwGjXvgyp8I3e","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:59:31] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:59:31] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$jEssm9FmRihw99Xs3XGGPONi8T7lujdcc6UNrOyQvwGjXvgyp8I3e","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:59:38] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:59:38] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$jEssm9FmRihw99Xs3XGGPONi8T7lujdcc6UNrOyQvwGjXvgyp8I3e","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 01:59:55] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 01:59:55] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$jEssm9FmRihw99Xs3XGGPONi8T7lujdcc6UNrOyQvwGjXvgyp8I3e","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 02:00:56] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 02:01:37] PRE_SESSION={"id":39,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 02:01:37] SELECT row for id=39 table=dentistas => {"twofa_pin":"$2y$10$UUv8F7jkFcoVAa7QWoALNeVPVFBuCo8b1Zkfb1Qw982dK0421KhCe","nome_completo":"Michael Cosme Reginaldo","cro":"7562","cpf":"170.418.107","especialidade":"Pediatria","telefone":"21997280118","email":"michaelcosme2@gmail.com"}
+[2025-11-27 02:05:45] PRE_SESSION={"id":43,"tipo":"medico","nome":"Cristiano Ronaldo"}
+[2025-11-27 02:06:53] PRE_SESSION={"id":43,"tipo":"medico","nome":"Cristiano Ronaldo"}
+[2025-11-27 02:06:53] SELECT row for id=43 table=dentistas => {"twofa_pin":"$2y$10$bTEZQmeX69VWIjoDnZqW6eZbCpXM14E6w1SGAwjngjecE7VVz0iNq","nome_completo":"Cristiano Ronaldo","cro":"787456","cpf":"171.848.807","especialidade":"Cl\u00ednica Geral","telefone":"21970112092","email":"richardsalgado1203@gmail.com"}
+[2025-11-27 15:45:14] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 15:45:21] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 15:45:21] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Pessoa","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"pessoa@gmail.com"}
+[2025-11-27 15:46:00] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Pessoal"}
+[2025-11-27 15:46:05] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Pessoal"}
+[2025-11-27 15:46:05] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Pessoal","nome_crianca":"Pessoal JR","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"pessoal@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 15:46:37] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 15:46:44] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 15:46:44] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Pessoa","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"pessoa@gmail.com"}
+[2025-11-27 17:01:47] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 17:01:53] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 17:01:53] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Pessoa","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"pessoa@gmail.com"}
+[2025-11-27 17:02:15] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Pessoal"}
+[2025-11-27 17:02:22] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Pessoal"}
+[2025-11-27 17:02:22] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Pessoal","nome_crianca":"Pessoal JR","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"pessoal@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 22:32:28] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 22:32:35] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 22:32:35] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Pessoa","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"pessoa@gmail.com"}
+[2025-11-27 22:36:17] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 22:40:54] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 22:40:59] PRE_SESSION={"id":41,"tipo":"medico","nome":"Pessoa"}
+[2025-11-27 22:40:59] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Pessoa","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"pessoa@gmail.com"}
+[2025-11-27 23:06:08] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:06:11] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:06:11] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Andr\u00e9","nome_crianca":"J\u00falio","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"cristianoaquino270@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 23:06:26] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:06:28] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:06:28] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Michael Cosme Reginaldo","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"michaelcosme2@gmail.com"}
+[2025-11-27 23:06:57] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:07:00] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:07:00] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Andr\u00e9","nome_crianca":"J\u00falio","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"cristianoaquino270@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 23:26:39] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:26:42] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:26:42] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Andr\u00e9","nome_crianca":"J\u00falio","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"cristianoaquino270@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 23:29:18] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:29:21] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:29:21] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Andr\u00e9","nome_crianca":"J\u00falio","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"cristianoaquino270@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 23:30:21] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:30:24] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:30:24] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Michael Cosme Reginaldo","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"michaelcosme2@gmail.com"}
+[2025-11-27 23:46:16] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:46:25] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:46:25] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Michael Cosme Reginaldo","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"michaelcosme2@gmail.com"}
+[2025-11-27 23:47:57] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:47:59] PRE_SESSION={"id":33,"tipo":"cliente","nome":"Andr\u00e9"}
+[2025-11-27 23:47:59] SELECT row for id=33 table=usuario => {"twofa_pin":"$2y$10$Wkep01c4WxrQ5kb5dYyoP.COV7eNLEJ2IxutGw8eowWyDiQA535Qe","nome_responsavel":"Andr\u00e9","nome_crianca":"J\u00falio","data_nascimento":"2015-12-12","cpf":"454.656.465-45","telefone":"(21) 09876-7979","email":"cristianoaquino270@gmail.com","cep":"21044-07","rua":"Rua Jo\u00e3o Ara\u00fajo","bairro":"Bonsucesso","cidade":"Rio de Janeiro","estado":"RJ"}
+[2025-11-27 23:49:08] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:49:11] PRE_SESSION={"id":41,"tipo":"medico","nome":"Michael Cosme Reginaldo"}
+[2025-11-27 23:49:11] SELECT row for id=41 table=dentistas => {"twofa_pin":"$2y$10$7XSLzo.O52IhxG.jl59uduYt7ewuqTEgkRIJ8FW5WPYDTNoq5lyp2","nome_completo":"Michael Cosme Reginaldo","cro":"RJ3200","cpf":"228.455.537","especialidade":"Cl\u00ednica Geral","telefone":"(21) 97991-8853","email":"michaelcosme2@gmail.com"}
+[2025-11-27 23:50:03] PRE_SESSION={"id":32,"tipo":"cliente","nome":"q"}
+[2025-11-27 23:50:08] PRE_SESSION={"id":32,"tipo":"cliente","nome":"q"}
+[2025-11-27 23:50:08] SELECT row for id=32 table=usuario => {"twofa_pin":"$2y$10$FJVnOD\/jgITQWpp6M.D54OhWseTHurDC1mIycSOvjSqII6GdRnT6W","nome_responsavel":"q","nome_crianca":"fg","data_nascimento":"2212-12-12","cpf":"787.984.564-98","telefone":"(21) 97991-8853","email":"g@gmail.com","cep":"21044-69","rua":"Rua Principal","bairro":"Mar\u00e9","cidade":"Rio de Janeiro","estado":"RJ"}

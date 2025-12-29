@@ -1,0 +1,112 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: #f8faff;
+    padding: 40px;
+    color: #333;
+}
+
+.container {
+    max-width: 650px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+    padding: 36px 40px;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #333;
+    margin-bottom: 28px;
+    font-size: 24px;
+}
+
+h2 span {
+    background: #f1edff;
+    color: #5613f1ff;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 20px;
+}
+
+/* --- Campos do formulário --- */
+
+form label {
+    display: block;
+    margin-bottom: 18px;
+    font-weight: 600;
+    color: #5613f1ff;
+    font-size: 14px;
+}
+
+form input,
+form select {
+    width: 100%;
+    margin-top: 6px;
+    padding: 12px 14px;
+    border-radius: 12px;
+    border: 1.5px solid #e0d8ff;
+    background: #faf9ff;
+    font-size: 15px;
+    color: #333;
+    transition: border 0.2s, box-shadow 0.2s;
+}
+
+form input:focus,
+form select:focus {
+    border-color: #5613f1ff;
+    box-shadow: 0 0 0 3px rgba(86, 19, 241, 0.1);
+    outline: none;
+}
+
+/* --- Botões --- */
+
+button[type="submit"] {
+    background: #6b46c1;
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 12px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+button[type="submit"]:hover {
+    background: #5c3ab0;
+}
+
+.cancel-btn {
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 12px;
+    background: #f7f3ff;
+    text-decoration: none;
+    color: #5a32b5;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.cancel-btn:hover {
+    background: #ece3ff;
+}
+
+/* Texto final */
+.footer-info {
+    margin-top: 18px;
+    font-size: 14px;
+    color: #666;
+}
+
+.footer-info a {
+    color: #5613f1ff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.footer-info a:hover {
+    text-decoration: underline;
+}
